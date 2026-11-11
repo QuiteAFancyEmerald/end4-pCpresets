@@ -78,7 +78,7 @@
     "splitSide": "right",
     "thumbnailPath": "yor-forger-assassin-spy-x-family-4k-live-wallpaper.mp4.jpg",
     "wallpaperAnimation": "magic",
-    "wallpaperPath": "emiliaradiantfinal.png",
+    "wallpaperPath": "/home/quiteafancyemerald/.cache/quickshell/presets/assets/pctrade--Emerald_Emilia/emiliaradiantfinal.png",
     "widgets": {
       "blurRadius": 25.83567976804124,
       "blurWidgets": true,
@@ -567,8 +567,8 @@
   },
   "panelFamily": "ii",
   "profile": {
-    "avatarPath": "reze",
-    "avatarPicture": "image.png",
+    "avatarPath": "/home/quiteafancyemerald/.cache/quickshell/presets/assets/pctrade--Emerald_Emilia",
+    "avatarPicture": "/home/quiteafancyemerald/.cache/quickshell/presets/assets/pctrade--Emerald_Emilia/image.png",
     "descriptionText": "::distro::",
     "displayName": ""
   },
@@ -742,5 +742,8 @@
   "windows": {
     "centerTitle": true,
     "showTitlebar": true
+  },
+  "_presetMeta": {
+    "source": "online"
   }
 }
